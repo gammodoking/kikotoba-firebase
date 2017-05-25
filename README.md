@@ -1,0 +1,2 @@
+# kikotoba-firebase
+firebase settings
