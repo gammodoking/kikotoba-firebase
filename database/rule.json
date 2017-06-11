@@ -1,0 +1,61 @@
+{
+  "rules": {
+    "$other": { ".validate": false },
+    "master": {
+      // 記事
+      "article": {
+        ".read": true,
+        ".write": false,
+        "$article_id": {
+          "$other": { ".validate": false },
+          "image": {".validate": "newData.isString() && newData.val().length > 0"},
+          "origin": {".validate": "newData.isString() && newData.val().length > 0"},
+          "isSample": {".validate": "newData.isBoolean()"},
+          "language": {
+            // "en", "ja"
+            "$language": {
+              "$other": { ".validate": false },
+              "title": {".validate": "newData.isString() && newData.val().length > 0"},
+              "sentences": {
+                "$sentence_id": {
+                  "$other": { ".validate": false },
+                  "text": {".validate": "newData.isString() && newData.val().length > 0"},
+                  "paragraph": {".validate": "newData.isNumber()"},
+                  "sequence": {".validate": "newData.isNumber()"},
+                },
+              },
+            },
+          },
+        },
+      },
+    },
+    "user": {
+      // ユーザーログ
+      "log": {
+        "$uid": {
+          "$other": { ".validate": true },
+          ".read": "$uid === auth.uid",
+          ".write": "$uid === auth.uid",
+          // 記事単位
+          "by_article": {
+            "$articke_id": {
+              "$other": { ".validate": true },
+              "listeningPlaybackTime": {".validate": "newData.isNumber()"},
+              "speakingCorrect": {
+                // 正解のみtrueでinsert。
+                "$sentence_id": {".validate": "newData.val() == true"},
+              },
+              "dictationCorrect": {
+                "$sentence_id": {".validate": "newData.val() == true"},
+              },
+            }
+          },
+          // 日単位
+          "by_date": {
+            "$other": { ".validate": false },
+          },
+        }
+      } // ユーザー活動
+    } // user
+  }
+}

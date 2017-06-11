@@ -1,0 +1,7 @@
+v1.4.0
+firebase:
+スキーマ変更のためruleを更新
+peter_rabbit_001のdatabase更新
+peter_rabbit_001の音声バージョンアップ
+
+

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973554192924",
+    "firebase_url": "https://kikotoba-prod.firebaseio.com",
+    "project_id": "kikotoba-prod",
+    "storage_bucket": "kikotoba-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973554192924:android:5b006c5e37853114",
+        "android_client_info": {
+          "package_name": "com.kikotoba.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973554192924-rv3o2umev25e8ab04hgfc2ifm7k02l7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kikotoba.android",
+            "certificate_hash": "2b036a0c55825da27779c3addcc2b436d112b011"
+          }
+        },
+        {
+          "client_id": "973554192924-klk24ggmt9b2iqf9qhmqp7mbh7fhegrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEfqbfuSzaHP0KaqSVzy4vQkutP9QSww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973554192924-klk24ggmt9b2iqf9qhmqp7mbh7fhegrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

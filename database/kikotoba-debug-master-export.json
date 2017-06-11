@@ -1,0 +1,1083 @@
+{
+  "article" : {
+    "peter_rabbit_001" : {
+      "image" : "http://www.aozora.gr.jp/cards/001505/files/fig51344_05.png",
+      "language" : {
+        "en" : {
+          "sentences" : [ {
+            "fromSec" : 28.2,
+            "paragraph" : 1,
+            "text" : "Once upon a time there were four little Rabbits, and their names were—Flopsy, Mopsy, Cotton-tail, and Peter.",
+            "toSec" : 37.1
+          }, {
+            "fromSec" : 38.5,
+            "paragraph" : 1,
+            "text" : "They lived with their Mother in a sand-bank, underneath the root of a very big fir tree.",
+            "toSec" : 43.6
+          }, {
+            "fromSec" : 44.5,
+            "paragraph" : 2,
+            "text" : "Now, my dears, said old Mrs. Rabbit one morning, ",
+            "toSec" : 47.9
+          }, {
+            "fromSec" : 49.4,
+            "paragraph" : 2,
+            "text" : " \"you may go into the fields or down the lane, but don't go into Mr. McGregor's garden: ",
+            "toSec" : 54.3
+          }, {
+            "fromSec" : 55.5,
+            "paragraph" : 2,
+            "text" : "your Father had an accident there; he was put in a pie by Mrs. McGregor.\"",
+            "toSec" : 60.7
+          }, {
+            "fromSec" : 62.2,
+            "paragraph" : 2,
+            "text" : "Now run along, and don't get into mischief. I am going out.",
+            "toSec" : 66.1
+          }, {
+            "fromSec" : 68.8,
+            "paragraph" : 3,
+            "text" : "Then old Mrs. Rabbit took a basket and her umbrella, and went through the wood to the baker's.",
+            "toSec" : 73.9
+          }, {
+            "fromSec" : 75,
+            "paragraph" : 3,
+            "text" : "She bought a loaf of brown bread and five currant buns.",
+            "toSec" : 78.9
+          }, {
+            "fromSec" : 79.9,
+            "paragraph" : 4,
+            "text" : "Flopsy, Mopsy, and Cottontail, who were good little bunnies, went down the lane to gather blackberries;",
+            "toSec" : 86.1
+          }, {
+            "fromSec" : 87.2,
+            "paragraph" : 4,
+            "text" : "But Peter, who was very naughty, ran straight away to Mr. McGregor's garden and squeezed under the gate!",
+            "toSec" : 94.1
+          }, {
+            "fromSec" : 96.8,
+            "paragraph" : 4,
+            "text" : "First he ate some lettuces and some French beans; and then he ate some radishes;",
+            "toSec" : 103
+          }, {
+            "fromSec" : 104.1,
+            "paragraph" : 4,
+            "text" : "And then, feeling rather sick, he went to look for some parsley.",
+            "toSec" : 108.5
+          }, {
+            "fromSec" : 110.1,
+            "paragraph" : 4,
+            "text" : "But round the end of a cucumber frame, whom should he meet but Mr.McGregor!",
+            "toSec" : 115.5
+          }, {
+            "fromSec" : 117.8,
+            "paragraph" : 5,
+            "text" : "Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, \"Stop thief!\"",
+            "toSec" : 126.5
+          }, {
+            "fromSec" : 128.1,
+            "paragraph" : 6,
+            "text" : "Peter was most dreadfully frightened; he rushed all over the garden, for he had forgotten the way back to the gate.",
+            "toSec" : 134.8
+          }, {
+            "fromSec" : 136.6,
+            "paragraph" : 6,
+            "text" : "He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.",
+            "toSec" : 142.1
+          }, {
+            "fromSec" : 143.6,
+            "paragraph" : 7,
+            "text" : "After losing them, he ran on four legs and went faster, so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net, ",
+            "toSec" : 153.2
+          }, {
+            "fromSec" : 154.1,
+            "paragraph" : 7,
+            "text" : "and got caught by the large buttons on his jacket. ",
+            "toSec" : 157.4
+          }, {
+            "fromSec" : 159.5,
+            "paragraph" : 7,
+            "text" : "It was a blue jacket with brass buttons, quite new.",
+            "toSec" : 163.2
+          }, {
+            "fromSec" : 165.4,
+            "paragraph" : 8,
+            "text" : "Peter gave himself up for lost, and shed big tears; ",
+            "toSec" : 169.1
+          }, {
+            "fromSec" : 170.3,
+            "paragraph" : 8,
+            "text" : "but his sobs were overheard by some friendly sparrows, who flew to him in great excitement, and implored him to exert himself.",
+            "toSec" : 177.8
+          }, {
+            "fromSec" : 179.9,
+            "paragraph" : 9,
+            "text" : "Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter; ",
+            "toSec" : 185.1
+          }, {
+            "fromSec" : 186.1,
+            "paragraph" : 9,
+            "text" : "but Peter wriggled out just in time, leaving his jacket behind him.",
+            "toSec" : 190.1
+          }, {
+            "fromSec" : 191.8,
+            "paragraph" : 10,
+            "text" : "And rushed into the toolshed, and jumped into a can. ",
+            "toSec" : 195.6
+          }, {
+            "fromSec" : 196.7,
+            "paragraph" : 10,
+            "text" : "It would have been a beautiful thing to hide in, if it had not had so much water in it.",
+            "toSec" : 201.5
+          }, {
+            "fromSec" : 203.7,
+            "paragraph" : 11,
+            "text" : "Mr. McGregor was quite sure that Peter was somewhere in the toolshed, perhaps hidden underneath a flower-pot. ",
+            "toSec" : 210.2
+          }, {
+            "fromSec" : 211.2,
+            "paragraph" : 11,
+            "text" : "He began to turn them over carefully, looking under each.",
+            "toSec" : 214.9
+          }, {
+            "fromSec" : 217,
+            "paragraph" : 11,
+            "text" : "Presently Peter sneezed—\"Kertyschoo!\" Mr. McGregor was after him in no time.",
+            "toSec" : 223.1
+          }, {
+            "fromSec" : 224.6,
+            "paragraph" : 12,
+            "text" : "And tried to put his foot upon Peter, who jumped out of a window, upsetting three plants. ",
+            "toSec" : 230.6
+          }, {
+            "fromSec" : 232,
+            "paragraph" : 12,
+            "text" : "The window was too small for Mr. McGregor, and he was tired of running after Peter. He went back to his work.",
+            "toSec" : 238.5
+          }, {
+            "fromSec" : 240.9,
+            "paragraph" : 13,
+            "text" : "Peter sat down to rest; he was out of breath and trembling with fright, and he had not the least idea which way to go. ",
+            "toSec" : 248.8
+          }, {
+            "fromSec" : 249.8,
+            "paragraph" : 13,
+            "text" : "Also he was very damp with sitting in that can.",
+            "toSec" : 253
+          }, {
+            "fromSec" : 255.3,
+            "paragraph" : 13,
+            "text" : "After a time he began to wander about, going lippity—lippity—not very fast, and looking all around.",
+            "toSec" : 262.4
+          }, {
+            "fromSec" : 264.6,
+            "paragraph" : 13,
+            "text" : "He found a door in a wall; but it was locked, and there was no room for a fat little rabbit to squeeze underneath.",
+            "toSec" : 270.7
+          }, {
+            "fromSec" : 272.3,
+            "paragraph" : 13,
+            "text" : "An old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood. ",
+            "toSec" : 278.9
+          }, {
+            "fromSec" : 280.7,
+            "paragraph" : 13,
+            "text" : "Peter asked her the way to the gate, but she had such a large pea in her mouth that she could not answer. ",
+            "toSec" : 286.7
+          }, {
+            "fromSec" : 287.7,
+            "paragraph" : 13,
+            "text" : "She only shook her head at him. Peter began to cry.",
+            "toSec" : 291.9
+          }, {
+            "fromSec" : 294,
+            "paragraph" : 14,
+            "text" : "Then he tried to find his way straight across the garden, but he became more and more puzzled. ",
+            "toSec" : 299.1
+          }, {
+            "fromSec" : 300.7,
+            "paragraph" : 14,
+            "text" : "Presently, he came to a pond where Mr. McGregor filled his water-cans. ",
+            "toSec" : 304.8
+          }, {
+            "fromSec" : 306,
+            "paragraph" : 14,
+            "text" : "A white cat was staring at some gold-fish; she sat very, very still, but now and then the tip of her tail twitched as if it were alive. ",
+            "toSec" : 316.3
+          }, {
+            "fromSec" : 318.5,
+            "paragraph" : 14,
+            "text" : "Peter thought it best to go away without speaking to her; he had heard about cats from his cousin, little Benjamin Bunny.",
+            "toSec" : 325.9
+          }, {
+            "fromSec" : 328.1,
+            "paragraph" : 15,
+            "text" : "He went back towards the tool-shed, but suddenly, quite close to him, he heard the noise of a hoe—scr-r-ritch, scratch, scratch, scritch. ",
+            "toSec" : 339.9
+          }, {
+            "fromSec" : 341.5,
+            "paragraph" : 15,
+            "text" : "Peter scuttered underneath the bushes. But presently, as nothing happened, he came out, and climbed upon a wheelbarrow, and peeped over. ",
+            "toSec" : 349.8
+          }, {
+            "fromSec" : 351.2,
+            "paragraph" : 15,
+            "text" : "The first thing he saw was Mr. McGregor hoeing onions. ",
+            "toSec" : 354.9
+          }, {
+            "fromSec" : 356.3,
+            "paragraph" : 15,
+            "text" : "His back was turned towards Peter, and beyond him was the gate!",
+            "toSec" : 360.1
+          }, {
+            "fromSec" : 362.1,
+            "paragraph" : 16,
+            "text" : "Peter got down very quietly off the wheelbarrow, and started running as fast as he could go, along a straight walk behind some black-currant bushes.",
+            "toSec" : 370.4
+          }, {
+            "fromSec" : 372.3,
+            "paragraph" : 16,
+            "text" : "Mr. McGregor caught sight of him at the corner, but Peter did not care. ",
+            "toSec" : 375.9
+          }, {
+            "fromSec" : 376.9,
+            "paragraph" : 16,
+            "text" : "He slipped underneath the gate, and was safe at last in the wood outside the garden.",
+            "toSec" : 381.9
+          }, {
+            "fromSec" : 383.8,
+            "paragraph" : 17,
+            "text" : "Mr. McGregor hung up the little jacket and the shoes for a scare-crow to frighten the blackbirds.",
+            "toSec" : 389.2
+          }, {
+            "fromSec" : 391.2,
+            "paragraph" : 17,
+            "text" : "Peter never stopped running or looked behind him till he got home to the big fir-tree.",
+            "toSec" : 396.4
+          }, {
+            "fromSec" : 398.1,
+            "paragraph" : 18,
+            "text" : "He was so tired that he flopped down upon the nice soft sand on the floor of the rabbit-hole, and shut his eyes. ",
+            "toSec" : 404.9
+          }, {
+            "fromSec" : 406.8,
+            "paragraph" : 18,
+            "text" : "His mother was busy cooking; she wondered what he had done with his clothes. ",
+            "toSec" : 412.9
+          }, {
+            "fromSec" : 413.7,
+            "paragraph" : 18,
+            "text" : "It was the second little jacket and pair of shoes that Peter had lost in a fortnight!",
+            "toSec" : 418.7
+          }, {
+            "fromSec" : 420.5,
+            "paragraph" : 19,
+            "text" : "I am sorry to say that Peter was not very well during the evening.",
+            "toSec" : 425
+          }, {
+            "fromSec" : 426.7,
+            "paragraph" : 19,
+            "text" : "His mother put him to bed, and made some camomile tea; and she gave a dose of it to Peter!",
+            "toSec" : 432.5
+          }, {
+            "fromSec" : 434.1,
+            "paragraph" : 19,
+            "text" : "One table-spoonful to be taken at bed-time.",
+            "toSec" : 437.6
+          }, {
+            "fromSec" : 439.1,
+            "paragraph" : 19,
+            "text" : "But Flopsy, Mopsy, and Cotton-tail had bread and milk and blackberries, for supper.",
+            "toSec" : 445.9
+          } ],
+          "title" : "THE TALE OF PETER RABBIT"
+        },
+        "ja" : {
+          "sentences" : [ {
+            "paragraph" : 1,
+            "text" : "昔々あるところに４匹の子うさぎがおりました。名前はそれぞれフロプシー、モプシー、コットンテイル、ピーターです。"
+          }, {
+            "paragraph" : 1,
+            "text" : "４匹はおかあさんといっしょにとっても大きなモミの木の下にある穴の中に住んでいました。"
+          }, {
+            "paragraph" : 2,
+            "text" : "ある日の朝、お母さんうさぎが言いました。"
+          }, {
+            "paragraph" : 2,
+            "text" : "「さあおまえたち、野原の中や小道の先で遊んでらっしゃい。でも、マグレガーおじさんのお庭には行っちゃダメよ。"
+          }, {
+            "paragraph" : 2,
+            "text" : "昔お父さんがそこでひょんなことからマグレガーおばさんに捕まってパイにされたんだから。」"
+          }, {
+            "paragraph" : 2,
+            "text" : "「いってらっしゃい、気を付けるのよ。お母さん、留守にしてるから。」"
+          }, {
+            "paragraph" : 3,
+            "text" : "それからお母さんうさぎはかごと傘を手に持って、森のむこうのパンやさんへ向かいました。"
+          }, {
+            "paragraph" : 3,
+            "text" : "買ったのは１きんのくろパンとぶどうパンを５つです。"
+          }, {
+            "paragraph" : 4,
+            "text" : "フロプシーとモプシーとコットンテイルはとってもいいこでしたので、小道を下ってブラックベリーつみに出掛けました。"
+          }, {
+            "paragraph" : 4,
+            "text" : "けれどもピーターはひどくやんちゃでしたので、そのままマグレガーおじさんのお庭にいちもくさん、入り口の柵の下をむりくりくぐり抜けたのです！"
+          }, {
+            "paragraph" : 4,
+            "text" : "すぐさまレタスとインゲンをかじっておまけにハツカダイコンまで。"
+          }, {
+            "paragraph" : 4,
+            "text" : "するとどうも気分が悪くなったのでお薬のパセリを探すことにしました。"
+          }, {
+            "paragraph" : 4,
+            "text" : "ところがキュウリのなえ箱を周ったところで出くわしたのが、なんとマグレガーおじさん！"
+          }, {
+            "paragraph" : 5,
+            "text" : "マグレガーおじさんは四つん這いでキャベツのなえを植えていたのですが、飛び上がってピーターを追いかけ、くわをふりふりさけぶのです。「待てえ、盗っ人！」"
+          }, {
+            "paragraph" : 6,
+            "text" : "ピーターはもうびっくりして震え上がって庭じゅうを駆け回りました。それというのも入り口がどこにあったのか分からなくなったのです。"
+          }, {
+            "paragraph" : 6,
+            "text" : "しかもキャベツ畑で靴を片っぽ、ジャガイモ畑でもう片っぽを失くしてしまいました。"
+          }, {
+            "paragraph" : 7,
+            "text" : "靴もないので四つ足で走るとぐんぐん速くなって、うまくいけば逃げられたと思うのですが、運わるくスグリのあみにつっこんでしまい、"
+          }, {
+            "paragraph" : 7,
+            "text" : "上着の大きなボタンがひっかかってしまったのです。"
+          }, {
+            "paragraph" : 7,
+            "text" : "ちなみに真鍮のボタンつきの青い上着でおろしたてのものでした。"
+          }, {
+            "paragraph" : 8,
+            "text" : "僕はもう死ぬんだな、ピーターは大粒の涙を流しました。"
+          }, {
+            "paragraph" : 8,
+            "text" : "でもその泣き声がたまたま優しいすずめたちにも聞こえて、そして慌ててそばに飛んで来てあきらめないでと言うのです。"
+          }, {
+            "paragraph" : 9,
+            "text" : "マグレガーおじさんがやってきてもってきたふるいをピーターのうえからぱっとかぶせようとしましたが、"
+          }, {
+            "paragraph" : 9,
+            "text" : "ピーターはすんでのところで、上着をあとに残して逃げだしました。"
+          }, {
+            "paragraph" : 10,
+            "text" : "そして物置小屋に駆け込んでじょうろの中に飛び込みました。"
+          }, {
+            "paragraph" : 10,
+            "text" : "とってもいい隠れ場だと思ったのに水がたくさん入っているなんて。"
+          }, {
+            "paragraph" : 11,
+            "text" : "マグレガーおじさんにはまるわかりでした。ピーターは絶対に物置小屋のどこかにいる。もしかすると植木鉢の中かもしれない。"
+          }, {
+            "paragraph" : 11,
+            "text" : "やがてそろりと持ち上げて一つずつ中を見るのです。"
+          }, {
+            "paragraph" : 11,
+            "text" : "まさにそのときピーターがくしゃみを――「はっくしゅん！」マグレガーおじさんがたちまち近づきます。"
+          }, {
+            "paragraph" : 12,
+            "text" : "足で踏みつけられそうになりましたが、ピーターは窓の外へと飛び出してついでに植木を３つ倒しました。"
+          }, {
+            "paragraph" : 12,
+            "text" : "窓が小さすぎたので、マグレガーおじさんもピーターを追いかけるのをあきらめて野良仕事へ戻ることにしました。"
+          }, {
+            "paragraph" : 13,
+            "text" : "ピーターは腰をおろして休みました。息もきれぎれ、怖くてぶるぶる、どっちへ行ったらいいのかちっとも分かりません。"
+          }, {
+            "paragraph" : 13,
+            "text" : "しかもじょうろの中でずぶ濡れです。"
+          }, {
+            "paragraph" : 13,
+            "text" : "しばらくしてうろちょろしはじめましたが、とぼとぼ――とぼとぼ――ゆっくりとあるいてきょろきょろ。"
+          }, {
+            "paragraph" : 13,
+            "text" : "かべにドアを見つけましたが、鍵が閉まっていて下をくぐり抜けようにもぷっくりした子うさぎの通るすきまはありません。"
+          }, {
+            "paragraph" : 13,
+            "text" : "お母さんねずみが石の戸口を入ったり出たりして木の中で待っている家族にお豆を運んでいます。"
+          }, {
+            "paragraph" : 13,
+            "text" : "ピーターはそのねずみに入り口への行き方を聞きましたが、口に大きなお豆をくわえていましたので、ねずみはなにも返事ができません。"
+          }, {
+            "paragraph" : 13,
+            "text" : "ただ首をふるだけなので、ピーターは涙が出てきました。"
+          }, {
+            "paragraph" : 14,
+            "text" : "それからお庭をつっきって帰り道を探そうとしましたが、余計に迷ってしまいました。"
+          }, {
+            "paragraph" : 14,
+            "text" : "やがてマグレガーおじさんが水くみをするため池のところへ辿りつきます。"
+          }, {
+            "paragraph" : 14,
+            "text" : "白いねこが金魚をじっとにらんでいてぴくりとも動きませんがときたましっぽの先が生き物みたいにくねくねとしていました。"
+          }, {
+            "paragraph" : 14,
+            "text" : "ピーターはそっとしておくのがいちばんだと思いました。猫については、いとこのリトル・ベンジャミン・バニーから聞いていたのです。"
+          }, {
+            "paragraph" : 15,
+            "text" : "物置小屋に戻ろうとすると、すぐそばから、さっくり、さくさく、さっくりとくわの音が聞こえてきました。"
+          }, {
+            "paragraph" : 15,
+            "text" : "ピーターはしげみの下をあたふたと走りまわりますが、けれどもなんということもないので、外に出て行ってて押し車の上へ上り様子をうかがってみました。"
+          }, {
+            "paragraph" : 15,
+            "text" : "まず見えたのがタマネギ畑をたがやすマグレガーおじさん。"
+          }, {
+            "paragraph" : 15,
+            "text" : "ピーターには背中をむけていて、なんとそのむこうに入り口があるのです！"
+          }, {
+            "paragraph" : 16,
+            "text" : "ピーターは音も立てずに手押し車をおりると、クロスグリのしげみの裏のまっすぐ道を全速力で走りだしました。"
+          }, {
+            "paragraph" : 16,
+            "text" : "かどのところでマグレガーおじさんに見つかりましたがピーターはかまいません。"
+          }, {
+            "paragraph" : 16,
+            "text" : "入り口の下にすべりこんでとうとう庭の外、森に入れば安全です。"
+          }, {
+            "paragraph" : 17,
+            "text" : "マグレガーおじさんは小さな上着と靴を棒にひっかけてカラスよけのかかしにしました。"
+          }, {
+            "paragraph" : 17,
+            "text" : "ピーターはそのままずっと走りっぱなしで振り返ることもなく大きなモミの木のおうちまで帰りました。"
+          }, {
+            "paragraph" : 18,
+            "text" : "すっかりくたびれたので、うさぎ穴のふかふかしたやわらかい土の地面にねっころがり、目を閉じました。"
+          }, {
+            "paragraph" : 18,
+            "text" : "お母さんはお料理をしていて手がはなせませんでしたが、着ていたものはどうしたのかしらとくびをかしげました。"
+          }, {
+            "paragraph" : 18,
+            "text" : "ピーターが上着と靴をなくしたのはこの２週間で２度目だったのです！"
+          }, {
+            "paragraph" : 19,
+            "text" : "なんといったらいいのか、ピーターはその日の晩はずっと具合いがよくありませんでした。"
+          }, {
+            "paragraph" : 19,
+            "text" : "お母さんはベッドに連れていき、カモミールのお茶を作って、ピーターのお薬にしてあげました。"
+          }, {
+            "paragraph" : 19,
+            "text" : "「寝る前におおさじいっぱいのむこと。」"
+          }, {
+            "paragraph" : 19,
+            "text" : "かたやフロプシーとモプシーとコットンテイルは晩ご飯にパンと牛乳とブラックベリーを食べました。"
+          } ],
+          "title" : "ピーターラビットの話"
+        }
+      },
+      "origin" : "http://www.gutenberg.org/cache/epub/582/pg582-images.html#id00013"
+    },
+    "peter_rabbit_002" : {
+      "image" : "http://www.aozora.gr.jp/cards/001505/files/fig51346_01.png",
+      "language" : {
+        "en" : {
+          "sentences" : [ {
+            "fromSec" : 22.3,
+            "paragraph" : 1,
+            "text" : "One morning a little rabbit sat on a bank.",
+            "toSec" : 25.5
+          }, {
+            "fromSec" : 26.4,
+            "paragraph" : 2,
+            "text" : "He pricked his ears and listened to the trit-trot, trit-trot of a pony.",
+            "toSec" : 31.5
+          }, {
+            "fromSec" : 32.9,
+            "paragraph" : 3,
+            "text" : "A gig was coming along the road; it was driven by Mr. McGregor, and beside him sat Mrs. McGregor in her best bonnet.",
+            "toSec" : 41.1
+          }, {
+            "fromSec" : 42.3,
+            "paragraph" : 4,
+            "text" : "As soon as they had passed, little Benjamin Bunny slid down into the road, ",
+            "toSec" : 46.5
+          }, {
+            "fromSec" : 47.7,
+            "paragraph" : 4,
+            "text" : "and set off—with a hop, skip, and a jump—to call upon his relations, who lived in the wood at the back of Mr. McGregor's garden.",
+            "toSec" : 55.2
+          }, {
+            "fromSec" : 56.3,
+            "paragraph" : 5,
+            "text" : "That wood was full of rabbit holes; and in the neatest, sandiest hole of all lived Benjamin's aunt and his cousins — Flopsy, Mopsy, Cotton-tail, and Peter.",
+            "toSec" : 66.9
+          }, {
+            "fromSec" : 68,
+            "paragraph" : 6,
+            "text" : "Old Mrs. Rabbit was a widow; she earned her living by knitting rabbit-wool mittens and muffatees ",
+            "toSec" : 73.6
+          }, {
+            "fromSec" : 74.9,
+            "paragraph" : 6,
+            "text" : "(I once bought a pair at a bazaar). ",
+            "toSec" : 77.2
+          }, {
+            "fromSec" : 78.4,
+            "paragraph" : 6,
+            "text" : "She also sold herbs, and rosemary tea, and rabbit-tobacco (which is what we call lavender).",
+            "toSec" : 84.2
+          }, {
+            "fromSec" : 86.4,
+            "paragraph" : 7,
+            "text" : "Little Benjamin did not very much want to see his Aunt.",
+            "toSec" : 89.5
+          }, {
+            "fromSec" : 90.5,
+            "paragraph" : 8,
+            "text" : "He came round the back of the fir-tree, and nearly tumbled upon the top of his Cousin Peter.",
+            "toSec" : 95.5
+          }, {
+            "fromSec" : 96.6,
+            "paragraph" : 9,
+            "text" : "Peter was sitting by himself. He looked poorly, and was dressed in a red cotton pocket-handkerchief.",
+            "toSec" : 102.6
+          }, {
+            "fromSec" : 103.8,
+            "paragraph" : 10,
+            "text" : " \"Peter,\" said little Benjamin, in a whisper, \"who has got your clothes?\"",
+            "toSec" : 108.2
+          }, {
+            "fromSec" : 109.4,
+            "paragraph" : 11,
+            "text" : "Peter replied, \"The scarecrow in Mr. McGregor's garden,\" ",
+            "toSec" : 113.7
+          }, {
+            "fromSec" : 115.1,
+            "paragraph" : 11,
+            "text" : "and described how he had been chased about the garden, and had dropped his shoes and coat.",
+            "toSec" : 119.6
+          }, {
+            "fromSec" : 121.3,
+            "paragraph" : 12,
+            "text" : "Little Benjamin sat down beside his cousin and assured him that Mr. McGregor had gone out in a gig, ",
+            "toSec" : 126.2
+          }, {
+            "fromSec" : 127.1,
+            "paragraph" : 12,
+            "text" : "and Mrs. McGregor also; certainly for the day, because she was wearing her best bonnet.",
+            "toSec" : 132.5
+          }, {
+            "fromSec" : 133.9,
+            "paragraph" : 13,
+            "text" : "Peter said he hoped that it would rain.",
+            "toSec" : 136
+          }, {
+            "fromSec" : 137.2,
+            "paragraph" : 14,
+            "text" : "At this point old Mrs. Rabbit's voice was heard inside the rabbit hole, calling: \"Cotton-tail! Cotton-tail! fetch some more camomile!\"",
+            "toSec" : 145.8
+          }, {
+            "fromSec" : 147.4,
+            "paragraph" : 15,
+            "text" : "Peter said he thought he might feel better if he went for a walk.",
+            "toSec" : 150.5
+          }, {
+            "fromSec" : 152.1,
+            "paragraph" : 16,
+            "text" : "They went away hand in hand, and got upon the flat top of the wall at the bottom of the wood. ",
+            "toSec" : 157
+          }, {
+            "fromSec" : 158.2,
+            "paragraph" : 17,
+            "text" : "From here they looked down into Mr. McGregor's garden.",
+            "toSec" : 161.1
+          }, {
+            "fromSec" : 162.2,
+            "paragraph" : 17,
+            "text" : "Peter's coat and shoes were plainly to be seen upon the scarecrow, topped with an old tam-o'-shanter of Mr. McGregor's.",
+            "toSec" : 168.9
+          }, {
+            "fromSec" : 170.4,
+            "paragraph" : 18,
+            "text" : "Little Benjamin said: \"It spoils people's clothes to squeeze under a gate; the proper way to get in is to climb down a pear-tree.\"",
+            "toSec" : 177.4
+          }, {
+            "fromSec" : 178.7,
+            "paragraph" : 19,
+            "text" : "Peter fell down head first; but it was of no consequence, as the bed below was newly raked and quite soft.",
+            "toSec" : 185.2
+          }, {
+            "fromSec" : 186.3,
+            "paragraph" : 20,
+            "text" : "It had been sown with lettuces.",
+            "toSec" : 188.3
+          }, {
+            "fromSec" : 189.7,
+            "paragraph" : 21,
+            "text" : "They left a great many odd little footmarks all over the bed, especially little Benjamin, who was wearing clogs.",
+            "toSec" : 196
+          }, {
+            "fromSec" : 197.5,
+            "paragraph" : 22,
+            "text" : "Little Benjamin said that the first thing to be done was to get back Peter's clothes, ",
+            "toSec" : 202.1
+          }, {
+            "fromSec" : 203.1,
+            "paragraph" : 22,
+            "text" : "in order that they might be able to use the pocket handkerchief.",
+            "toSec" : 206.2
+          }, {
+            "fromSec" : 207.6,
+            "paragraph" : 23,
+            "text" : "They took them off the scarecrow. ",
+            "toSec" : 209.4
+          }, {
+            "fromSec" : 210.4,
+            "paragraph" : 23,
+            "text" : "There had been rain during the night; there was water in the shoes, and the coat was somewhat shrunk.",
+            "toSec" : 215.9
+          }, {
+            "fromSec" : 216.7,
+            "paragraph" : 24,
+            "text" : "Benjamin tried on the tam-o'-shanter, but it was too big for him.",
+            "toSec" : 221
+          }, {
+            "fromSec" : 222,
+            "paragraph" : 25,
+            "text" : "Then he suggested that they should fill the pocket-handkerchief with onions, as a little present for his Aunt.",
+            "toSec" : 226.8
+          }, {
+            "fromSec" : 228.6,
+            "paragraph" : 26,
+            "text" : "Peter did not seem to be enjoying himself; he kept hearing noises.",
+            "toSec" : 232.6
+          }, {
+            "fromSec" : 233.9,
+            "paragraph" : 27,
+            "text" : "Benjamin, on the contrary, was perfectly at home, and ate a lettuce leaf. ",
+            "toSec" : 238.2
+          }, {
+            "fromSec" : 239,
+            "paragraph" : 27,
+            "text" : "He said that he was in the habit of coming to the garden with his father to get lettuces for their Sunday dinner.",
+            "toSec" : 244.3
+          }, {
+            "fromSec" : 245.3,
+            "paragraph" : 28,
+            "text" : "(The name of little Benjamin's papa was old Mr. Benjamin Bunny.)",
+            "toSec" : 249.2
+          }, {
+            "fromSec" : 250.4,
+            "paragraph" : 29,
+            "text" : "Lettuces certainly were very fine.",
+            "toSec" : 252.8
+          }, {
+            "fromSec" : 253.5,
+            "paragraph" : 30,
+            "text" : "Peter did not eat anything; he said he should like to go home. ",
+            "toSec" : 257.4
+          }, {
+            "fromSec" : 258.5,
+            "paragraph" : 30,
+            "text" : "Presently he dropped half the onions.",
+            "toSec" : 260.7
+          }, {
+            "fromSec" : 262.1,
+            "paragraph" : 31,
+            "text" : "Little Benjamin said that it was not possible to get back up the pear-tree with a load of vegetables. ",
+            "toSec" : 266.7
+          }, {
+            "fromSec" : 267.8,
+            "paragraph" : 31,
+            "text" : "He led the way boldly towards the other end of the garden. ",
+            "toSec" : 270.8
+          }, {
+            "fromSec" : 271.9,
+            "paragraph" : 31,
+            "text" : "They went along a little walk on planks, under a sunny, red brick wall.",
+            "toSec" : 275.8
+          }, {
+            "fromSec" : 277,
+            "paragraph" : 32,
+            "text" : "The mice sat on their doorsteps cracking cherry-stones; they winked at Peter Rabbit and little Benjamin Bunny.",
+            "toSec" : 283.1
+          }, {
+            "fromSec" : 284.2,
+            "paragraph" : 32,
+            "text" : "Presently Peter let the pocket-handkerchief go again.",
+            "toSec" : 287.2
+          }, {
+            "fromSec" : 288,
+            "paragraph" : 33,
+            "text" : "They got amongst flower-pots, and frames, and tubs. ",
+            "toSec" : 291.6
+          }, {
+            "fromSec" : 292.7,
+            "paragraph" : 33,
+            "text" : "Peter heard noises worse than ever; his eyes were as big as lolly-pops!",
+            "toSec" : 296.3
+          }, {
+            "fromSec" : 297.6,
+            "paragraph" : 34,
+            "text" : "He was a step or two in front of his cousin when he suddenly stopped.",
+            "toSec" : 300.6
+          }, {
+            "fromSec" : 302.6,
+            "paragraph" : 35,
+            "text" : "This is what those little rabbits saw round that corner!",
+            "toSec" : 305.5
+          }, {
+            "fromSec" : 306.3,
+            "paragraph" : 36,
+            "text" : "Little Benjamin took one look, and then, in half a minute less than no time, he hid himself and Peter and the onions underneath a large basket. . . .",
+            "toSec" : 314.8
+          }, {
+            "fromSec" : 316.5,
+            "paragraph" : 37,
+            "text" : "The cat got up and stretched herself, and came and sniffed at the basket.",
+            "toSec" : 321.7
+          }, {
+            "fromSec" : 323.6,
+            "paragraph" : 38,
+            "text" : "Perhaps she liked the smell of onions!",
+            "toSec" : 325.9
+          }, {
+            "fromSec" : 327.2,
+            "paragraph" : 39,
+            "text" : "Anyway, she sat down upon the top of the basket.",
+            "toSec" : 330.5
+          }, {
+            "fromSec" : 331.8,
+            "paragraph" : 40,
+            "text" : "She sat there for FIVE HOURS.",
+            "toSec" : 334.8
+          }, {
+            "fromSec" : 336.1,
+            "paragraph" : 41,
+            "text" : "I cannot draw you a picture of Peter and Benjamin underneath the basket, ",
+            "toSec" : 339.8
+          }, {
+            "fromSec" : 340.8,
+            "paragraph" : 41,
+            "text" : "because it was quite dark, and because the smell of onions was fearful; it made Peter Rabbit and little Benjamin cry.",
+            "toSec" : 347.3
+          }, {
+            "fromSec" : 349.1,
+            "paragraph" : 42,
+            "text" : "The sun got round behind the wood, and it was quite late in the afternoon; but still the cat sat upon the basket.",
+            "toSec" : 355.8
+          }, {
+            "fromSec" : 357.8,
+            "paragraph" : 43,
+            "text" : "At length there was a pitter-patter, pitter-patter, and some bits of mortar fell from the wall above.",
+            "toSec" : 363.2
+          }, {
+            "fromSec" : 364.8,
+            "paragraph" : 44,
+            "text" : "The cat looked up and saw old Mr. Benjamin Bunny prancing along the top of the wall of the upper terrace.",
+            "toSec" : 370.2
+          }, {
+            "fromSec" : 371.5,
+            "paragraph" : 45,
+            "text" : "He was smoking a pipe of rabbit-tobacco, and had a little switch in his hand.",
+            "toSec" : 375.9
+          }, {
+            "fromSec" : 377.7,
+            "paragraph" : 46,
+            "text" : "He was looking for his son.",
+            "toSec" : 379.6
+          }, {
+            "fromSec" : 381,
+            "paragraph" : 47,
+            "text" : "Old Mr. Bunny had no opinion whatever of cats. ",
+            "toSec" : 384.1
+          }, {
+            "fromSec" : 385,
+            "paragraph" : 47,
+            "text" : "He took a tremendous jump off the top of the wall on to the top of the cat, and cuffed it off the basket, and kicked it into the greenhouse, scratching off a handful of fur.",
+            "toSec" : 393.9
+          }, {
+            "fromSec" : 395,
+            "paragraph" : 48,
+            "text" : "The cat was too much surprised to scratch back.",
+            "toSec" : 397.6
+          }, {
+            "fromSec" : 399.2,
+            "paragraph" : 49,
+            "text" : "When old Mr. Bunny had driven the cat into the greenhouse, he locked the door.",
+            "toSec" : 403.2
+          }, {
+            "fromSec" : 404.6,
+            "paragraph" : 50,
+            "text" : "Then he came back to the basket and took out his son Benjamin by the ears, and whipped him with the little switch.",
+            "toSec" : 410.5
+          }, {
+            "fromSec" : 411.6,
+            "paragraph" : 51,
+            "text" : "Then he took out his nephew Peter.",
+            "toSec" : 413.6
+          }, {
+            "fromSec" : 414.7,
+            "paragraph" : 52,
+            "text" : "Then he took out the handkerchief of onions, and marched out of the garden.",
+            "toSec" : 418.3
+          }, {
+            "fromSec" : 420,
+            "paragraph" : 53,
+            "text" : "When Mr. McGregor returned about half an hour later he observed several things which perplexed him.",
+            "toSec" : 425.6
+          }, {
+            "fromSec" : 427.1,
+            "paragraph" : 54,
+            "text" : "It looked as though some person had been walking all over the garden in a pair of clogs—only the footmarks were too ridiculously little!",
+            "toSec" : 434.7
+          }, {
+            "fromSec" : 436.1,
+            "paragraph" : 55,
+            "text" : "Also he could not understand how the cat could have managed to shut herself up INSIDE the greenhouse, locking the door upon the OUTSIDE.",
+            "toSec" : 444.2
+          }, {
+            "fromSec" : 445.7,
+            "paragraph" : 56,
+            "text" : "When Peter got home his mother forgave him, because she was so glad to see that he had found his shoes and coat.",
+            "toSec" : 451.3
+          }, {
+            "fromSec" : 452.7,
+            "paragraph" : 56,
+            "text" : "Cotton-tail and Peter folded up the pocket-handkerchief, ",
+            "toSec" : 455.6
+          }, {
+            "fromSec" : 456.5,
+            "paragraph" : 56,
+            "text" : "and old Mrs. Rabbit strung up the onions and hung them from the kitchen ceiling, with the bunches of herbs and the rabbit-tobacco.",
+            "toSec" : 463.9
+          } ],
+          "title" : "THE TALE OF BENJAMIN BUNNY"
+        },
+        "ja" : {
+          "sentences" : [ {
+            "paragraph" : 1,
+            "text" : "あるひの朝、１匹の子ウサギが、小道のわきの土手に座っておりました。"
+          }, {
+            "paragraph" : 2,
+            "text" : "耳を立てて子馬のパカラン、パカランという足音を聞いていたのです。"
+          }, {
+            "paragraph" : 3,
+            "text" : "道を進むのは１台の馬車で、運転手はマグレガーおじさん、わきにはよそいきの帽子をかぶったマグレガーおばさんもいました。"
+          }, {
+            "paragraph" : 4,
+            "text" : "馬車が行ってしまうと、ベンジャミン・バニーはすぐさま道へと滑り降り、"
+          }, {
+            "paragraph" : 4,
+            "text" : "―― ホップ、スキップ、ジャンプ ――で駆け出しました。マグレガーさんのお庭の裏の森に住む親戚のお家を尋ねるのです。"
+          }, {
+            "paragraph" : 5,
+            "text" : "その森にはウサギ穴がいたるところにあって、その中でも一番きちんとしていてふかふかなのがベンジャミンの叔母とそのいとこたち――フロプシー、モプシー、コットンテイルとピーター――のお家なのです。"
+          }, {
+            "paragraph" : 6,
+            "text" : "お父さんウサギはもういないので、お母さんウサギがウサギの毛糸で手袋やリストバンドを編んで、生計を立てていました。"
+          }, {
+            "paragraph" : 6,
+            "text" : "（わたしもこの前バザーで買ったんですよ。）"
+          }, {
+            "paragraph" : 6,
+            "text" : "その他にもハーブやローズマリーのお茶、ウサギタバコ（いわゆるラベンダー）なんてものも売っています。"
+          }, {
+            "paragraph" : 7,
+            "text" : "リトル・ベンジャミンはあまりおばさんとは会いたくありませんでした。"
+          }, {
+            "paragraph" : 8,
+            "text" : "そこでモミのきの裏にまわったのですが、危うくいとこのピーターの真上へ転げ落ちそうになりました。"
+          }, {
+            "paragraph" : 9,
+            "text" : "ピーターはひとりで座っていました。どうも元気がなさそうで、赤い木綿のハンカチにくるまっていました。"
+          }, {
+            "paragraph" : 10,
+            "text" : "「ピーター」とリトル・ベンジャミンのひそひそごえ。「誰が君の服を取ってったんだい？」"
+          }, {
+            "paragraph" : 11,
+            "text" : "ピーターは答えました「マグレガーおじさんの庭のかかしさ。」"
+          }, {
+            "paragraph" : 11,
+            "text" : "それから庭で追い掛け回されたこと、靴と上着をなくしたことを説明しました。"
+          }, {
+            "paragraph" : 12,
+            "text" : "リトル・ベンジャミンはいとこのそばに座って、はっきり言いました。マグレガーおじさんは馬車ででかけたよ。"
+          }, {
+            "paragraph" : 12,
+            "text" : "おばさんもいっしょだったし、よそ行きの帽子だったから、きっと一日中だ。"
+          }, {
+            "paragraph" : 13,
+            "text" : "ピーターは、雨でも降ればいいのにと言いました。"
+          }, {
+            "paragraph" : 14,
+            "text" : "とそのとき、お母さんウサギの声がウサギ穴の中から聞こえてきます。「コットンテイル！コットンテイル！ちょっとカモミールをとってきて！」"
+          }, {
+            "paragraph" : 15,
+            "text" : "ピーターは、散歩に行けば気分もよくなるかもといいました。"
+          }, {
+            "paragraph" : 16,
+            "text" : "ふたりは手をつないで歩いて、森はずれの塀の上の平たいところにのぼりました。"
+          }, {
+            "paragraph" : 17,
+            "text" : "そこからマグレガーおじさんの庭が見下ろしました。"
+          }, {
+            "paragraph" : 17,
+            "text" : "ピーターの上着と靴がかかしのところにあるのがはっきりと見えて、あたまにはマグレガーおじさんの古いタマシャンター帽もありました。"
+          }, {
+            "paragraph" : 18,
+            "text" : "リトル・ベンジャミンがいいました。「柵の下をくぐると服がだめになっちゃうな。ナシの木をつたっておりるのがいい。」"
+          }, {
+            "paragraph" : 19,
+            "text" : "ピーターが頭から落っこちましたが大したことはありませんでした。下の苗床が耕されたばかりで柔らかかったのです。"
+          }, {
+            "paragraph" : 20,
+            "text" : "そこにはレタスの種がまかれていました"
+          }, {
+            "paragraph" : 21,
+            "text" : "ふたりは苗床のあちこちに小さくあやしげな足跡をたくさんつけました。木靴を履いていたリトル・ベンジャミンは特にです。"
+          }, {
+            "paragraph" : 22,
+            "text" : "リトル・ベンジャミンは言いました。まずやるべきことはピーターの服を取り戻すことだよ。"
+          }, {
+            "paragraph" : 22,
+            "text" : "ハンカチが使えるようにね。"
+          }, {
+            "paragraph" : 23,
+            "text" : "ふたりはかかしから取り返しました。"
+          }, {
+            "paragraph" : 23,
+            "text" : "夜の間に雨が降ったので、靴には水が入っていて、上着も幾分ちぢんでいました。"
+          }, {
+            "paragraph" : 24,
+            "text" : "ベンジャミンはタマシャンター帽もかぶってみましたが彼には大きすぎました。"
+          }, {
+            "paragraph" : 25,
+            "text" : "そのあとタマネギをハンカチで包んでおばさんへのささやかなお土産にしようと言い出しました。"
+          }, {
+            "paragraph" : 26,
+            "text" : "ピーターは楽しくなさそうでした。彼はずっと耳鳴りを聞き続けていました。"
+          }, {
+            "paragraph" : 27,
+            "text" : "それにひきかえベンジャミンはまったくリラックスして、レタスのはっぱを食べていました。"
+          }, {
+            "paragraph" : 27,
+            "text" : "いつもお父さんといっしょにこの庭にやってきてはレタスをとって日曜日の夕食にするのだと言いました。"
+          }, {
+            "paragraph" : 28,
+            "text" : "（リトル・ベンジャミンのお父さんの名前はオールド・ベンジャミン・バニーといいます。）"
+          }, {
+            "paragraph" : 29,
+            "text" : "とてもいいレタスでした。"
+          }, {
+            "paragraph" : 30,
+            "text" : "ピーターは何も食べず、お家に帰りたいと言いました。"
+          }, {
+            "paragraph" : 30,
+            "text" : "とたんにタマネギを半分落としてしまいました。"
+          }, {
+            "paragraph" : 31,
+            "text" : "リトル・ベンジャミンは、野菜を荷物をもってナシの木はのぼれないな、と言いました。"
+          }, {
+            "paragraph" : 31,
+            "text" : "彼は庭の反対側へ向かって、堂々と道を歩いていったのです。"
+          }, {
+            "paragraph" : 31,
+            "text" : "ふたりはよく日の当たるレンガ塀の下の厚板を敷いた小道を行きました。"
+          }, {
+            "paragraph" : 32,
+            "text" : "ねずみたちが戸口の段のところでサクランボの種を割っていたのですが、ピーター・ラビットとリトル・ベンジャミンにウィンクしました。"
+          }, {
+            "paragraph" : 32,
+            "text" : "そのときピーターはまたしてもハンカチから手を話してしまいました。"
+          }, {
+            "paragraph" : 33,
+            "text" : "ふたりは植木鉢と苗箱と平鉢の並んだところへやってきました。"
+          }, {
+            "paragraph" : 33,
+            "text" : "ピーターの耳鳴りはますますひどくなって、目は飴玉みたいにはれあがってしまいました！"
+          }, {
+            "paragraph" : 34,
+            "text" : "いとこの数歩前を歩いていたのですが、いきなり立ち止まったのです。"
+          }, {
+            "paragraph" : 35,
+            "text" : "かどをまわったところで子ウサギたちの目の前にこいつ（猫の挿絵）がいたのです！"
+          }, {
+            "paragraph" : 36,
+            "text" : "リトル・ベンジャミンはひとめ見たとたん、すかさずピーターをタマネギごとひっぱって、自分もいっしょにカゴの下へと隠れました……"
+          }, {
+            "paragraph" : 37,
+            "text" : "猫は起き上がるとのびをして、こっちへきてカゴをくんくんとかぎました。"
+          }, {
+            "paragraph" : 38,
+            "text" : "もしやタマネギのにおいが大好きだとか！"
+          }, {
+            "paragraph" : 39,
+            "text" : "ともかく、猫はカゴのうえに腰をおろしました。"
+          }, {
+            "paragraph" : 40,
+            "text" : "５時間もずっと座っていました。"
+          }, {
+            "paragraph" : 41,
+            "text" : "私にはカゴの下のピーターとベンジャミンをみなさんに描いてあげることができません。"
+          }, {
+            "paragraph" : 41,
+            "text" : "まず真っ暗ですし、タマネギのにおいがひどくてピーター・ラビットとリトル・ベンジャミンは涙まみれでしたから。"
+          }, {
+            "paragraph" : 42,
+            "text" : "お日さまが森のむこうにぐるっとまわって、お昼もだいぶ過ぎましたが、まだ猫はカゴの上にすわっていました。"
+          }, {
+            "paragraph" : 43,
+            "text" : "しばらくして、ピタパタ、ピタパタとおとが聞こえて、モルタルのかけらが塀の上から落ちてきました。"
+          }, {
+            "paragraph" : 44,
+            "text" : "猫がみあげると、なんとお父さんベンジャミン・バニーが高い塀の上をゆうゆうと歩いているのです。"
+          }, {
+            "paragraph" : 45,
+            "text" : "ウサギタバコのパイプをふかして、てには小さなのムチを持っていました。"
+          }, {
+            "paragraph" : 46,
+            "text" : "彼は息子を探しているのでした。"
+          }, {
+            "paragraph" : 47,
+            "text" : "お父さんバニーは猫というものをよく思ってはいませんでした。"
+          }, {
+            "paragraph" : 47,
+            "text" : "塀の上から猫のあたまをめがけてちからいっぱいとびかかり、カゴから叩き落として、さらに毛をひとつかみむしって温室へと蹴り入れてしまいました。"
+          }, {
+            "paragraph" : 48,
+            "text" : "猫はおどろきのあまりやりかえすこともできませんでした。"
+          }, {
+            "paragraph" : 49,
+            "text" : "お父さんバニーは猫を温室へとおい入れると、ドアの鍵を閉めました。"
+          }, {
+            "paragraph" : 50,
+            "text" : "それからカゴのところへ戻ると息子のベンジャミンの耳をつかんでひっぱりだし、小さなのムチで打ちました。"
+          }, {
+            "paragraph" : 51,
+            "text" : "そのあと甥のピーターもひっぱりだしました。"
+          }, {
+            "paragraph" : 52,
+            "text" : "そうしてタマネギのつつみをとりあげると、ゆうゆうと庭の外へと出て行きました。"
+          }, {
+            "paragraph" : 53,
+            "text" : "その３０分ほどあとに戻ってきたマグレガーおじさんは、あちらこちらの様子がどうも妙なことに気が付きました。"
+          }, {
+            "paragraph" : 54,
+            "text" : "誰かが庭じゅうを木靴で歩きまわったみたいなのに――その足跡ときたらおかしなほどに小さいのです！"
+          }, {
+            "paragraph" : 55,
+            "text" : "それから分からないのが、猫はどうやって鍵を外からかけて温室の中へ自分を閉じ込めたのでしょう。"
+          }, {
+            "paragraph" : 56,
+            "text" : "お家へ帰ったピーターですが、お母さんは怒りませんでした。息子が自分で靴と上着を見つけてきたとわかってうれしかったのです。"
+          }, {
+            "paragraph" : 56,
+            "text" : "コットンテイルとピーターはハンカチをたたみ、"
+          }, {
+            "paragraph" : 56,
+            "text" : "お母さんウサギはタマネギをしばると、ハーブの束やウサギタバコといっしょに台所の天井から吊るしました。"
+          } ],
+          "title" : "ベンジャミン・バニーの話"
+        }
+      },
+      "origin" : "http://www.gutenberg.org/cache/epub/582/pg582-images.html#id00051"
+    },
+    "z_dummy_001" : true,
+    "z_dummy_002" : true,
+    "z_dummy_003" : true
+  }
+}
