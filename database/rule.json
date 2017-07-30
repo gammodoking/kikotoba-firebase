@@ -2,7 +2,12 @@
   "rules": {
     "$other": { ".validate": false },
     "master": {
-      // 記事
+    // 記事
+      "article_v1": {
+        ".read": true,
+        ".write": false,
+        "article": {}
+      },
       "article": {
         ".read": true,
         ".write": false,
@@ -26,12 +31,11 @@
               },
             },
           },
-        },
-      },
-    },
-    "user": {
-      // ユーザーログ
-      "log": {
+        }, // article_id
+      }, // article
+    }, // master
+    "user": { // user
+      "log": { // ログ
         "$uid": {
           "$other": { ".validate": true },
           ".read": "$uid === auth.uid",
@@ -39,15 +43,11 @@
           // 記事単位
           "by_article": {
             "$articke_id": {
-              "$other": { ".validate": true },
+              "$other": { ".validate": false },
               "listeningPlaybackTime": {".validate": "newData.isNumber()"},
-              "speakingCorrect": {
-                // 正解のみtrueでinsert。
-                "$sentence_id": {".validate": "newData.val() == true"},
-              },
-              "dictationCorrect": {
-                "$sentence_id": {".validate": "newData.val() == true"},
-              },
+              "currentReadingIndex": {".validate": "newData.isNumber()"},
+              "score": {".validate": true},
+              "part": {".validate": true},
             }
           },
           // 日単位
@@ -55,7 +55,7 @@
             "$other": { ".validate": false },
           },
         }
-      } // ユーザー活動
+      } // ログ
     } // user
   }
 }
